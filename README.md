@@ -31,7 +31,7 @@ I'm a Senior Software Engineer and working with Perennial System. I have 5+ year
 - 🛠 &nbsp; I’m currently working with Golang, Microservices, RestAPI, <br/> Serverless AWS, GCP, Mongodb, DynamoDB, MySQL,<br/>& Javascript, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/babulal107).
 - 📫 &nbsp; How to reach me: babulal.developer@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/babulal107/babulal107/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/babulal107/babulal107/blob/master/resume.pdf).
 
 
 
