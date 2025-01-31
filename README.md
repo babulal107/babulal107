@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=babulal107.babulal107&style=flat-square&color=0088cc)
 
-I'm a Senior Software Engineer and working with Perennial System. I have 5+ years of expricence in product and web application development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻
+🚀 𝐆𝐨𝐥𝐚𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐭 | 𝐑𝐞𝐬𝐭𝐟𝐮𝐥 𝐀𝐏𝐈 | 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 | 𝐂𝐥𝐨𝐮𝐝 & 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
+I'm a Senior Software Engineer and working with Perennial System. With 9+ years of experience building 𝐡𝐢𝐠𝐡-𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬. I bring expertise in 𝐆𝐨𝐥𝐚𝐧𝐠, 𝐦𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬, 𝐀𝐏𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, and 𝐜𝐥𝐨𝐮𝐝-𝐧𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬. With a problem-solving mindset, I focus on 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲, 𝐜𝐨𝐧𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐲, and 𝐜𝐮𝐭𝐭𝐢𝐧𝐠-𝐞𝐝𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 to drive innovation. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/babulal107/babulal107/master/gifs/coder.gif" />
 
@@ -35,7 +36,7 @@ I'm a Senior Software Engineer and working with Perennial System. I have 5+ year
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
